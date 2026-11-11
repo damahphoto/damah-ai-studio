@@ -1,0 +1,8 @@
+name = "damah-ai-studio-api"
+main = "index.js"
+compatibility_date = "2026-11-01"
+
+# Change to your actual GitHub Pages origin, no trailing slash.
+[vars]
+ALLOWED_ORIGIN = "https://damahphoto.github.io"
+IMAGE_MODEL = "gpt-image-1.5"
